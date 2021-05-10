@@ -1,5 +1,14 @@
 ### Hi there, This is cecisalof :sunglasses:
 
+```js
+const cecisalof{
+  code: [Javascript, HTML5, CSS3],
+  tools: [firebase, React],
+  passions: 'web development',
+  hobbies:['programming', 'dance','ceramics', ],
+}
+
+```
 ## I'm an Web Developer, Learner and a theater lover!
 - Student at [Laboratoria](https://www.laboratoria.la/) 
 - 🔭 I’m currently learning to built apps with React consuming an API!
