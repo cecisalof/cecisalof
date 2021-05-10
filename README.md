@@ -11,7 +11,7 @@ const cecisalof{
 ```
 ## I'm an Web Developer, Learner and a theater lover!
 - Student at [Laboratoria](https://www.laboratoria.la/) 
-- 🔭 I’m currently learning to built apps with React consuming an API!
+- 🔭 I’m currently learning to built apps with React consuming data from an API!
 - 👯 I seek to collaborate on projects that protect the environment and develop products that promote accessibility and inclusion.
 - ⚡ Fun fact: I love to dance in the rain!
 - 👨‍💻 All of my projects are available at https://github.com/cecisalof
