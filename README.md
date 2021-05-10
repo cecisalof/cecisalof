@@ -1,17 +1,17 @@
 ### Hi there, This is cecisalof :sunglasses:
 
 ```js
-const cecisalof{
+const cecisalof = {
   code: [Javascript, HTML5, CSS3],
   tools: [firebase, React],
   passions: 'web development',
-  hobbies:['dance','ceramics'],
+  hobbies:['dance','ceramics']
 }
 
 ```
 ## I'm an Web Developer, Learner and a theater lover!
 - Student at [Laboratoria](https://www.laboratoria.la/) 
-- 🔭 I’m currently learning to built apps with React consuming data from an API!
+- 🔭 I’m currently learning to build apps with React consuming data from an API!
 - 👯 I seek to collaborate on projects that protect the environment and develop products that promote accessibility and inclusion.
 - ⚡ Fun fact: I have an Art Degree in Contemporary Dance Choreography.
 - 👨‍💻 All of my projects are available at https://github.com/cecisalof
