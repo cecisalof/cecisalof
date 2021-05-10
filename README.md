@@ -5,7 +5,7 @@ const cecisalof{
   code: [Javascript, HTML5, CSS3],
   tools: [firebase, React],
   passions: 'web development',
-  hobbies:['programming', 'dance','ceramics', ],
+  hobbies:['dance','ceramics'],
 }
 
 ```
