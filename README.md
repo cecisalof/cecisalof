@@ -28,7 +28,7 @@ const cecisalof{
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
+![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)
 
 <br />
 
