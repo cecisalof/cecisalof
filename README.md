@@ -3,7 +3,7 @@
 ```js
 const cecisalof = {
   code: [Javascript, HTML5, CSS3],
-  tools: [firebase, React],
+  tools: [firebase, React, Vue, Expo React Native],
   passions: 'web development',
   hobbies:['dance','ceramics']
 }
