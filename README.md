@@ -10,11 +10,9 @@ const cecisalof = {
 
 ```
 ## I'm an Web Developer, Learner and a theater lover!
-- 📚 I took a new professional path and after a quick journey in UX (user experience) world, I decided to study Front-end development bootcamp at [Laboratoria](https://www.laboratoria.la/). 
 - 👯 I seek to collaborate on projects that protect the environment and develop products that promote accessibility and inclusion.
 - ⚡ Fun fact: I have an Art Degree in Contemporary Dance Choreography.
 - 👨‍💻 All of my projects are available at https://github.com/cecisalof
-- 📫 How to reach me: cecilia.sanchezlosada@gmail.com
 
 
 <br />
