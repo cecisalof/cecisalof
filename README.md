@@ -5,13 +5,12 @@ const cecisalof = {
   code: [Javascript, HTML5, CSS3],
   tools: [firebase, React, Vue, Expo React Native],
   passions: 'web development',
-  hobbies:['dance','ceramics']
+  hobbies:['ceramics']
 }
 
 ```
 ## I'm an Web Developer, Learner and a theater lover!
 - 👯 I seek to collaborate on projects that protect the environment and develop products that promote accessibility and inclusion.
-- ⚡ Fun fact: I have an Art Degree in Contemporary Dance Choreography.
 - 👨‍💻 All of my projects are available at https://github.com/cecisalof
 
 
